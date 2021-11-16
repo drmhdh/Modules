@@ -12,3 +12,4 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=String-to-Hashtag)](https://github.com/FayasNoushad/String-to-Hashtag)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=High-School-ICT)](https://github.com/FayasNoushad/High-School-ICT)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Account-Create-Python)](https://github.com/FayasNoushad/Account-Create-Python)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=QR-Code)](https://github.com/FayasNoushad/QR-Code)
