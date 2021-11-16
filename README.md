@@ -3,7 +3,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Jokes)](https://github.com/FayasNoushad/Jokes)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=YouTube-Tags)](https://github.com/FayasNoushad/YouTube-Tags)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Random-Cats-Photos)](https://github.com/FayasNoushad/Random-Cats-Photos)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Telegraph)](https://github.com/FayasNoushad/YouTube-Tags)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Telegraph)](https://github.com/FayasNoushad/Telegraph)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Country-Info)](https://github.com/FayasNoushad/Country-Info)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Corona-Info)](https://github.com/FayasNoushad/Corona-Info)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Play-Store-Search)](https://github.com/FayasNoushad/Play-Store-Search)
