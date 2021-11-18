@@ -12,6 +12,8 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Numbers)](https://github.com/FayasNoushad/Numbers)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Random-Animal-Photos)](https://github.com/FayasNoushad/Random-Animal-Photos)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Pet-Names)](https://github.com/FayasNoushad/Pet-Names)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Animal-Facts)](https://github.com/FayasNoushad/Animal-Facts)
