@@ -31,3 +31,5 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Account-Create-Python)](https://github.com/FayasNoushad/Account-Create-Python)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=QR-Code)](https://github.com/FayasNoushad/QR-Code)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=PyPi-Search)](https://github.com/FayasNoushad/PyPi-Search)
